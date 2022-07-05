@@ -11,8 +11,3 @@ It generates, print and analyses RNN that perform the lisk of task described in 
 
 3) If you want to see the data set generation type run generate_data_set_xx.py. 
 
-Paper: Different eigenvalue distributions encode the same temporal tasks in recurrent neural networks.
-
-https://link.springer.com/article/10.1007/s11571-022-09802-5
-
-https://arxiv.org/abs/2005.13074
