@@ -5,6 +5,8 @@ Runs with GPU.
 
 It generates, print and analyses RNN that perform the lisk of task described in Arxiv paper.
 
+https://arxiv.org/abs/1906.01094
+
 1) To print and study a  network use load_and_print_xxx.py
 
 2) To generate a set of networks use loop_to_call.py and import the corresponding .py to generate data_set_xx.py and binary_xx.py the network.
